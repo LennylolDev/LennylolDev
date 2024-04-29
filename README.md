@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LennylolDev
 - 👀 I’m interested in python and roblox lua
 - 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me discord
 
 <!---
